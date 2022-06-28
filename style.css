@@ -1,0 +1,51 @@
+h1{color:red;font-size:4vw;}
+h2{color:#BF1A29;font-size:3vw;}
+
+
+#banniere
+{ background-image: url("le-cnam.jpeg");
+width:100vw;
+height:18vw;
+margin: auto;
+margin-bottom:1vw;
+}
+
+
+.contact-flex{ display:flex;
+               flex-flow:row wrap;
+               align-items:center;
+}
+
+header h1{color:white blue;
+          font-size:1.5vw;
+		  width:90vw;
+          margin:0 auto;}
+		  
+
+section{
+	display:flex;
+	flex-flow: row wrap;
+	justify-content:center;
+	width:100vw;
+	padding-bottom:2vw;
+	margin:1vw auto;
+	background-color:#ffff;
+	box-shadow: 0vw 0vw 2vw;
+}
+
+section > div{ width:95%;}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 2vw;
+    background-color:#BF1A29;
+    color: #000000;
+}
+.un, .deux, .trois{
+    width: 33%;
+    float: left;
+}
+
+
+	
